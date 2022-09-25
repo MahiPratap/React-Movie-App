@@ -1,6 +1,5 @@
 import React from "react";
 import Loading from "./Loading";
-// import SentimentVeryDissatisfiedIcon from '@mui/icons-material/SentimentVeryDissatisfied';
 
 const Actors = (props) => {
 
